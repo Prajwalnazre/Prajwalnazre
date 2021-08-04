@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prajwalnazre
 - 👀 I’m interested in basically anything about Computers
 - 🌱 I’m currently learning Frontend Web Technolgies 
+- 🌐 [Here](https://prajj.herokuapp.com/main/) is my portfolio website that I built to know more about me!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
