@@ -39,6 +39,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwalnazre&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalnazre&theme=buefy&layout=compact" />
 </a>
+
+<!-- ![](https://komarev.com/ghpvc/?username=Prajwalnazre) -->
+
 <!---
 Prajwalnazre/Prajwalnazre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
